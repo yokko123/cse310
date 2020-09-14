@@ -12,15 +12,6 @@ This is an e-commerce base project made with **html,css,javascript and java jsp 
 6)	User Profile
 7)	Automated  Total Price & Discount Calculator
 
-### Some ScreenShots
-
-<<<<<<< HEAD
-<img src="/Pictures/khawadawa.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-=======
-
->>>>>>> ae276efba16efbdd3494b6df58228a995e6bf910
 
 
 
