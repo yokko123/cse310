@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: 100%;
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+.navbar-brand{
+    transform: translate(0%,-10%);
+}
+#search-box{
+    transform: translate(50%,15%); 
+    padding-left: 15px;
+    outline: none;
+    height: 40px;
+    width: 400px;
+    border-radius: 30px;
+    border: none;
+}
+.search-btn{
+    transform: translate(380%,15%);
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    display: flex;
+    border: none;
+    outline: none;
+}
+.wishlist{
+    position: fixed;
+    left: 80%; 
+    margin-right: 0;
+    
+}
+.cart{
+    position: fixed;
+    left: 85%;
+}
+.user,#navbarDropdown{
+    /* transform: translate(700%,0%); */
+    position: fixed;
+    left: 90%;
+}
+.dropdown-menu{
+    position: absolute;
+    transform: translate(250%,8%);
+}
+.carousel{
+    margin-top: 100px;
+}
+.list-group-item.active{
+    background: tomato;
+    border: none;
+    
+}
+.list-group-item:active{
+    background: tomato;
+    color: white;
+}
+.discount-label{
+    font-size: 10px!important;
+    font-style: italic!important;
+}
+.product-card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+footer{
+    background: aliceblue;
+}

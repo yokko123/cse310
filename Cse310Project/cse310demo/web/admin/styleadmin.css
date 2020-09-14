@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 9, 2020, 3:16:07 AM
+    Author     : yokko
+*/
+body{
+    margin: 0;
+    background: aliceblue;
+    padding-top: 70px;
+    height: auto;
+    width: 100%;
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+.navbar-brand{
+    transform: translate(0%,-10%);
+}
+
+.admin .card{
+    border: 1px solid black;
+    border-radius: 18px;
+}
+
+.admin .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+
+
