@@ -14,7 +14,7 @@ This is an e-commerce base project made with **html,css,javascript and java jsp 
 
 ### Some ScreenShots
 
-![Image](Pictures/khawadawa.png)
+![Image](/Pictures/khawadawa.png)
 
 
 
