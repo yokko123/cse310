@@ -14,7 +14,9 @@ This is an e-commerce base project made with **html,css,javascript and java jsp 
 
 ### Some ScreenShots
 
-![Image](/Pictures/khawadawa.png)
+<img src="Pictures/khawadawa.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 
