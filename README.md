@@ -13,7 +13,7 @@ This is an e-commerce base project made with **html,css,javascript and java jsp 
 7)	Automated  Total Price & Discount Calculator
 
 <p>
-https://github.com/yokko123/cse310/blob/master/video-1599162599.mp4
+https://github.com/yokko123/cse310/blob/e874f381a74b02f9a0e6dc8e2cbe23771d7223b6/video-1599162599.mp4
 </p>
 
 
