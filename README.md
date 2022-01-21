@@ -12,7 +12,9 @@ This is an e-commerce base project made with **html,css,javascript and java jsp 
 6)	User Profile
 7)	Automated  Total Price & Discount Calculator
 
-![Game Process](https://github.com/yokko123/cse310/blob/master/video-1599162599.mp4)
+<p>
+<img src="MOT16_eval/track_pedestrians.gif" width="400"/> <img src="https://github.com/yokko123/cse310/blob/master/video-1599162599.mp4" width="400"/> 
+</p>
 
 
 
